@@ -1,0 +1,20 @@
+{
+  "name": "dsproj",
+  "version": "1.0.0",
+  "description": "DSPROJ",
+  "main": "resourceManager.js",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "redis": "^3.1.2",
+    "socketio": "^1.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh,Sravya,Harika",
+  "license": "ISC"
+}

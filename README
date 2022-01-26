@@ -1,0 +1,12 @@
+The Program connects to tools deployed at an EC2 server and needs active internet connection
+Environment:
+-NodeJS
+To install packages
+-run $npm install
+
+-To start a ChatService run the following command
+$node resourceManger.js <desired port>
+-To add another ChatService run the command with different port again
+
+To run a CHat CLient
+$node userChat.js
